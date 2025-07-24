@@ -36,8 +36,7 @@ Opal is a comprehensive application designed to streamline screen recording and 
 ## Project Repositories
 
 ### Web Application
-[opal-webprodigies](https://github.com/EGJJR/opal-webprodigies): Contains the Next.js application for video management and collaboration.
-
+It is deployed on: https://live-stream-gray.vercel.app
 
 ---
 
